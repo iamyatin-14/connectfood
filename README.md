@@ -69,7 +69,7 @@ A modern, full-stack web application that connects food donors with recipient or
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/connectfood.git
+   git clone https://github.com/iamyatin-14/connectfood.git
    cd connectfood
    ```
 
@@ -190,27 +190,7 @@ connectfood/
 - `PUT /api/donations/{id}/initiate` - Initiate collection
 - `PUT /api/donations/{id}/collect` - Mark as collected
 
-## 🚀 Deployment
 
-### Backend Deployment
-
-```bash
-# Build JAR file
-mvn clean package
-
-# Run with Docker
-docker build -t connectfood-backend .
-docker run -p 8080:8080 connectfood-backend
-```
-
-### Frontend Deployment
-
-```bash
-# Build for production
-npm run build
-
-# Deploy to Vercel/Netlify
-# Upload dist/ folder to your hosting platform
 ```
 
 ## 🤝 Contributing
@@ -233,20 +213,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Tailwind CSS** - For beautiful UI components
 - **MongoDB** - For flexible data storage
 
-## 📞 Support
-
-For support and questions:
-
-- Create an issue in the GitHub repository
-- Email: support@connectfood.com
-- Documentation: [Wiki](https://github.com/yourusername/connectfood/wiki)
-
-## 🔄 Version History
-
-- **v1.0.0** - Initial release with core features
-- **v1.1.0** - Added dark theme and improved UI
-- **v1.2.0** - Enhanced security and performance
-
----
 
 **Made with ❤️ for a better world**
