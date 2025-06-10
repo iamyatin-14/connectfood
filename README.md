@@ -148,7 +148,6 @@ connectfood/
 │   │   └── application.properties
 │   └── pom.xml
 ├── README.md
-└── PROJECT_COMPLETE_GUIDE.md
 ```
 
 ## 🔐 Security Features
