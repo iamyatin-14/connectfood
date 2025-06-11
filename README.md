@@ -248,5 +248,24 @@ For support and questions:
 - **v1.2.0** - Enhanced security and performance
 
 ---
+## Screenshots
+
+### 🏠 Home Page
+![Home](connectfood/screenshots/home.png)
+
+### 🔐 Sign-in Page
+![Sign In](connectfood/screenshots/Signin.png)
+
+### 👤 Donor Dashboard
+![Donor Dashboard](connectfood/screenshots/donor_dashboard.png)
+
+### 📦 Donation Form
+![Donation](connectfood/screenshots/donation.png)
+
+### 🧾 Recipient Dashboard
+![Recipient Dashboard](connectfood/screenshots/recipient_dashboard.png)
+
+### ⚠️ Incomplete Profile Warning
+![Incomplete Profile](connectfood/screenshots/profile_incomplete.png)
 
 **Made with ❤️ for a better world**
