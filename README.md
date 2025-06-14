@@ -213,4 +213,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **MongoDB** - For flexible data storage
 
 
-**Made with ❤️ for a better world**
+Made with ❤️ by Y'
